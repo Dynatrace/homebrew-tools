@@ -1,4 +1,4 @@
-class Dtswiftinstrumentor < Formula
+class DtswiftinstrumentorAT825511006 < Formula
   homepage "https://www.dynatrace.com/"
   url "https://mobileagent.downloads.dynatrace.com/ios/8.255.1.1006/dynatrace-mobile-agent-ios-8.255.1.1006-swift-instrumentor.zip"
   sha256 "4ec4bca354bc0dea9a1edc7fc0a32546c27260698c5a8413e085d5246a58707d"
